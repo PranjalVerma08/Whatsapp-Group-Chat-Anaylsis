@@ -8,5 +8,4 @@ Data Collection
 Data Preparation
 Data Exploration
 
-Notebook was not uploaded due tp privacy concerns as this is a private chat group.
 Happy learning
